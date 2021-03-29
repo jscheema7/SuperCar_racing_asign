@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperCar_racing", "SuperCar_racing\SuperCar_racing.csproj", "{8F7A0CFE-F8DA-44A6-A288-4F00DD12526E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperCar_racingTests", "SuperCar_racingTests\SuperCar_racingTests.csproj", "{05CD6C64-3109-46E3-A722-EAB9C22F925A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F7A0CFE-F8DA-44A6-A288-4F00DD12526E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7A0CFE-F8DA-44A6-A288-4F00DD12526E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7A0CFE-F8DA-44A6-A288-4F00DD12526E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7A0CFE-F8DA-44A6-A288-4F00DD12526E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05CD6C64-3109-46E3-A722-EAB9C22F925A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CD6C64-3109-46E3-A722-EAB9C22F925A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CD6C64-3109-46E3-A722-EAB9C22F925A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CD6C64-3109-46E3-A722-EAB9C22F925A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E63D5148-173F-4D0D-AC3A-3689A58E0E86}
+	EndGlobalSection
+EndGlobal
